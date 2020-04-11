@@ -1,0 +1,23 @@
+.Profil{
+    width:250px;
+    height:250px;  
+}
+
+
+.FullName{
+    color: red;
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 48px;
+   
+
+}
+
+
+.Adress{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+
+}
